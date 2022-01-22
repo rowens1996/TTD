@@ -5,7 +5,7 @@
 //2 or 3 neighbours the cell lives
 //any dead cell with exactly 3 neighbours becomes a live cell 
 
-function gameOfLife(neighbours) {
+function gameOfLife(neighbours, state) {
     return false;
 }
 
