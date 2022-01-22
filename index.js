@@ -8,3 +8,5 @@
 function gameOfLife(neighbours) {
     return false;
 }
+
+export { gameOfLife }
