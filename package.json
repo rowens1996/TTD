@@ -1,0 +1,16 @@
+{
+  "name": "ttd",
+  "version": "1.0.0",
+  "description": "ttd game of life",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Ryan Owens",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.16.10",
+    "@babel/preset-env": "^7.16.11",
+    "babel-jest": "^27.4.6"
+  }
+}
