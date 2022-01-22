@@ -4,6 +4,7 @@
 //more than 3 neighbours the cell dies
 //2 or 3 neighbours the cell lives
 //any dead cell with exactly 3 neighbours becomes a live cell 
+//a dead cell otherwise stays dead
 
 function gameOfLife(neighbours, state) {
     return false;
