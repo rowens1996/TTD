@@ -13,4 +13,8 @@ describe("cell", () => {
         const result = gameOfLife(2,"Alive");
         expect(result).toBe(true);
     })
+    //it("has is dead and has exactly 3 neighbours, it is true", () => {
+     //   const result = gameOfLife(3,"Dead");
+     //   expect(result).toBe(true);
+   // })
 })
